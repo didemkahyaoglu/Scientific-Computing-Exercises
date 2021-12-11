@@ -56,3 +56,5 @@ than 27000)
                     append nucleotides to string1
 7. assign findSeq(string1, probeLen) to dict
 8. write the file with writeToFile(dict,valid_seq) function
+
+![image](https://user-images.githubusercontent.com/45897290/145689773-4e4f3d4f-e681-4a33-81c8-d1c50b8402bd.png)
